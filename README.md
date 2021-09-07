@@ -1,5 +1,3 @@
-# [![Matteo Gevi header](https://raw.githubusercontent.com/DataStrander/DataStrander/main/icon/gh-bannner-light.png)](https://vizedex.com)
-
 <p>
   <a href="https://www.vizedex.com/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/death_stranding_title.png?raw=true"></a>
 </p>
@@ -32,8 +30,6 @@ I develope an algorythm and design the **Data WareHouse** for my **Educational S
 ![](https://img.shields.io/badge/<Cloud>-<AWS>-informational?style=flat&logo=<#232F3E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Dev>-<Docker>-informational?style=flat&logo=<#2496ED>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Dev>-<VisualStudio>-informational?style=flat&logo=<#5C2D91>&logoColor=white&color=2bbc8a)
-
-[Latest Post 👉](https://waylonwalker.com/latest)
 
 💌
 <details>
