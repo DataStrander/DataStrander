@@ -22,14 +22,14 @@ I develope an algorythm and design the **Data WareHouse** for my **Educational S
 
 ### Coding Skills
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<#3776AB>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<DB>-<PostgreeSQL>-informational?style=flat&logo=<#4169E1>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<#FCC624>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Shell>-<Bash>-informational?style=flat&logo=<#4EAA25>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<BI>-<Tableau>-informational?style=flat&logo=<#E97627>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Cloud>-<AWS>-informational?style=flat&logo=<#232F3E>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Dev>-<Docker>-informational?style=flat&logo=<#2496ED>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Dev>-<VisualStudio>-informational?style=flat&logo=<#5C2D91>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PostgreeSQL-informational?style=flat&logo=#4169E1&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=#FCC624&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=#4EAA25&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BI-Tableau-informational?style=flat&logo=#E97627&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=#232F3E&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev-Docker-informational?style=flat&logo=#2496ED&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev-VisualStudio-informational?style=flat&logo=#5C2D91&logoColor=white&color=2bbc8a)
 
 💌
 <details>
