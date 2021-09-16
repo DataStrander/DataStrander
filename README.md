@@ -1,10 +1,10 @@
 <p>
-  <a href="https://www.vizedex.com/"><img height="30" src="https://github.com/DataStrander/DataStrander/blob/main/icon/death_stranding_title.png?raw=true"></a>
+  <a href="https://www.vizedex.com/"><img height="90" src="https://github.com/DataStrander/DataStrander/blob/main/icon/death_stranding_title.png?raw=true"></a>
 </p>
 
 <p align='center'>
-<a href="https://medium.com/@matteo_gevi"><img height="30" src="https://github.com/DataStrander/DataStrander/blob/main/icon/medium_logo.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.vizedex.com/"><img height="30" src="https://github.com/DataStrander/DataStrander/blob/main/icon/vized_purple_logo.jpg?raw=true"></a>
+<a href="https://medium.com/@matteo_gevi"><img height="30" src="https://github.com/DataStrander/DataStrander/blob/main/icon/medium_logo.jpg?raw=true"></a>
 <a href="https://www.linkedin.com/in/matteo-gevi/"><img height="30" src="https://github.com/DataStrander/DataStrander/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
